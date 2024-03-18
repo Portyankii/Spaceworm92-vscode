@@ -1,0 +1,32 @@
+{
+    "name": "spaceworm92-theme",
+    "displayName": "Spaceworm92",
+    "description": "A custom theme based on the Spaceworm92 Emacs theme.",
+    "version": "1.0.0",
+    "publisher": "borodinsky",
+    "engines": {
+      "vscode": "^1.0.0"
+    },
+    "categories": [
+      "Themes"
+    ],
+    "icon": "icon.png",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Portyankii/Spaceworm92-vscode"
+    },
+    "license": "MIT",
+    "keywords": [
+      "theme",
+      "vscode"
+    ],
+    "contributes": {
+      "themes": [
+        {
+          "label": "Spaceworm92",
+          "uiTheme": "vs-dark",
+          "path": "./theme/Spaceworm92.json"
+        }
+      ]
+    }
+  }
