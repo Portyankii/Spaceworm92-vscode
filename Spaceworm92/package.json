@@ -3,7 +3,7 @@
     "displayName": "Spaceworm92",
     "description": "A custom theme based on the Spaceworm92 Emacs theme.",
     "version": "1.0.0",
-    "publisher": "borodinsky",
+    "publisher": "Portyankii",
     "engines": {
       "vscode": "^1.0.0"
     },
